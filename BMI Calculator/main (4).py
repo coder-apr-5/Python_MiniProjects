@@ -1,4 +1,3 @@
-
 #Metric System for the BMI calculator (Body mass index)
 
 def bmi_calculate(weight:float,height:float)->None:
