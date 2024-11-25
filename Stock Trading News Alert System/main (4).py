@@ -1,3 +1,4 @@
+
 #A system that monitors stock prices and identifies significant fluctuations. Upon detecting a notable change(at least 5%), the system automatically retrieves andsends relevant news articles to the user.
 #For the stock price change I used Alphavantage (50$ a month but can easily cancel membership)
 #For retrieving the news about the stock I used newsapi.org (free)
