@@ -1,6 +1,5 @@
 
 
-
 #Rock Paper Scissors
 #using the random library
 #It will ask the user for an input.0 for rock,1 for paper and 2 for scissors
