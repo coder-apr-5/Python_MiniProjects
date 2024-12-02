@@ -1,5 +1,6 @@
 
 
+
 #Heads or Tails
 #By using the random library, I generate a random number choosing between 0 and 1
 #If it is 0 it gets heads and for 1 it gets tails
