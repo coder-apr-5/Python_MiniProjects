@@ -1,6 +1,7 @@
 
 
 
+
 #Fizzbuzz
 #If the number is divisible by 15--> fizzbuzz, divisble by 5--> buzz and divisible by 3 --> fizz or it just prints the number
 #At the same time this is leetcode 
