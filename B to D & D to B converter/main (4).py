@@ -1,4 +1,3 @@
-
 import tkinter as tk
 
 def decimal_to_binary():
@@ -45,5 +44,6 @@ output_label = tk.Label(root, text="", pady=10)
 output_label.pack()
 
 root.mainloop()
+
 
 
